@@ -20,7 +20,9 @@
 3.簡単な説明書を入れてあります(下記動画などもあります)
 
 # その他ツールについて
-ニコニコ動画: https://www.nicovideo.jp/watch/sm39420176 <br>
+ニコニコ動画:<br>
+　機能説明: https://www.nicovideo.jp/watch/sm39420176 <br>
+　忙しい人向け簡単な使い方: https://www.nicovideo.jp/watch/sm39420769<br>
 　ご利用いただけた場合は上記動画をコンテンツツリーに<br>
 　登録していただけるととても喜びます(登録は強制ではありません)。<br>
 開発者: ほおちく(twitter: @hoo_tiku)
