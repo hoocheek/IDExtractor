@@ -20,10 +20,15 @@
 2.解凍して NiconicoIDExtractor.exe をそのまま実行してください<br>
 3.簡単な説明書を入れてあります(下記動画などもあります)
 
-# その他ツールについて
+# その他　ツールについて
+更新履歴や旧バージョンのダウンロード:<br>
+　https://github.com/hoocheek/IDExtractor/releases<br>
 ニコニコ動画:<br>
+(ver 0.0.x 時点の情報)<br>
 　機能説明: https://www.nicovideo.jp/watch/sm39420176 <br>
 　忙しい人向け簡単な使い方: https://www.nicovideo.jp/watch/sm39420769<br>
+<br>
 　ご利用いただけた場合は上記動画をコンテンツツリーに<br>
 　登録していただけるととても喜びます(登録は強制ではありません)。<br>
+<br>
 開発者: ほおちく(twitter: @hoo_tiku)
