@@ -1,9 +1,4 @@
 ## ReadJEnc
-Copyright (C) 2014-2018 hnx8(H.Takahashi) 
-Released under the MIT license
-https://github.com/hnx8/ReadJEnc/blob/master/LICENSE
-
-
 MIT License
 
 Copyright (c) 2017 hnx8
