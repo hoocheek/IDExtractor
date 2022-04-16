@@ -27,6 +27,7 @@
 (ver 0.0.x 時点の情報)<br>
 　機能説明: https://www.nicovideo.jp/watch/sm39420176 <br>
 　忙しい人向け簡単な使い方: https://www.nicovideo.jp/watch/sm39420769<br>
+　ver 0.2.6 時点の更新まとめhttps://www.nicovideo.jp/watch/sm39836480<br>
 <br>
 　ご利用いただけた場合は上記動画をコンテンツツリーに<br>
 　登録していただけるととても喜びます(登録は強制ではありません)。<br>
