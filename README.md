@@ -28,6 +28,8 @@
 # その他　ツールについて
 更新履歴や旧バージョンのダウンロード:<br>
 　https://github.com/hoocheek/IDExtractor/releases<br>
+　※実行ファイルの情報は同フォルダ内に生成される NiconicoIDExtractor.exe.Config へ保存されます<br>
+　　移行したいバージョンの実行ファイルと同じフォルダへコピーすることでデータを引き継げます<br>
 ニコニコ動画:<br>
 (ver 0.0.x 時点の情報)<br>
 　機能説明: https://www.nicovideo.jp/watch/sm39420176 <br>
